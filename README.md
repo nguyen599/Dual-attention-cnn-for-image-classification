@@ -15,7 +15,7 @@ Frequency Channel Attention:
 
   [2]: ./images/fcanet.png
 
-### Denpendency
+### Dependency
 * python3.10
 * tensorflow2.15
 * The code is work on Ubuntu 20.04.6 LTS
