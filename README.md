@@ -29,7 +29,7 @@ Frequency Channel Attention:
 ### Getting Started
 
 ```bash
-git https://github.com/mxmm2123/Dual-attention-cnn-for-image-classification.git
+git https://github.com/nguyen599/Dual-attention-cnn-for-image-classification.git
 ```
 #### Dataset
 
